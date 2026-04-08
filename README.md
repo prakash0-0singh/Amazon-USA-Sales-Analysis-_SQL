@@ -16,6 +16,7 @@ An ERD diagram is included to visually represent the database schema and relatio
 
 ---
 
+### **Entity Relationship Diagram (ERD)**
 <img src="https://github.com/prakash0-0singh/Amazon-USA-Sales-Analysis-_SQL/blob/main/Assets/erd.png" class="center">
 
 ## **Database Setup & Design**
@@ -741,10 +742,5 @@ This project enabled me to:
 This advanced SQL project successfully demonstrates my ability to solve real-world e-commerce problems using structured queries. From improving customer retention to optimizing inventory and logistics, the project provides valuable insights into operational challenges and solutions.
 
 By completing this project, I have gained a deeper understanding of how SQL can be used to tackle complex data problems and drive business decision-making.
-
----
-
-### **Entity Relationship Diagram (ERD)**
-![ERD](https://github.com/najirh/amazon_usa_project5/blob/main/erd.png)
 
 ---
